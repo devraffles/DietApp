@@ -2,7 +2,7 @@
 DietApp é um aplicativo que auxilia na criação de planos alimentares personalizados, tudo isso com a ajuda da inteligência artificial Gemini, desenvolvida pelo Google.
 
 <div align="center">
-  <img alt="Logo FreelaFlex" src="https://github.com/devraffles/DietApp/blob/main/IMG-README/dieta.svg"/>
+  <img alt="Logo NutriApp" src="https://github.com/devraffles/NutriApp/blob/main/IMG-README/dieta.png"/>
 </div>
 
 # Tecnologia 
