@@ -12,7 +12,7 @@ export default function Index() {
       />
 
       <Text style={styles.title}>
-        DietApp<Text style={{color: colors.white}}>.IA</Text> 
+        NutriApp<Text style={{color: colors.white}}>.IA</Text> 
       </Text>
 
       <Text style={styles.text}>
