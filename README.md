@@ -6,4 +6,4 @@ DietApp é um aplicativo que auxilia na criação de planos alimentares personal
 </div>
 
 # Tecnologia 
-Desenvolvido com as mais recentes tecnologias, como React Native, Node.js e TypeScript, o DietApp garante uma experiência fluida e eficiente. Também usando o Gemini, a IA da Google, é o motor por trás da personalização das dietas, analisando uma vasta quantidade de dados para oferecer as melhores recomendações.
+Desenvolvido com React Native, Node.js e TypeScript, o DietApp garante uma experiência fluida e eficiente. Também usando o Gemini, a IA da Google, é o motor por trás da personalização das dietas, analisando uma vasta quantidade de dados para oferecer as melhores recomendações.
